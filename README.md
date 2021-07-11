@@ -1,6 +1,6 @@
 # Zwitter (zwitter)
 
-A Quasar Framework app. Zwitter is a single page application clone of Twitter built with VueJs and the Quasar Framework. With Quasar Framework, the app is deployable on Web, windows and iOS desktop, Android and iPhone.
+A Quasar Framework app. Zwitter is a single page application clone of Twitter built with VueJs, Firebase Firestore and the Quasar Framework. With Quasar Framework, the app is deployable on Web, windows and iOS desktop, Android and iPhone.
 
 ## Install the dependencies
 ```bash
